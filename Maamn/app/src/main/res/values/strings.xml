@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Maamn</string>
+
+    <string-array name="days">
+        <item>الأحد</item>
+        <item>الاثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
+    </string-array>
+
+    <string-array name="repeat">
+        <item>تكرار يومي</item>
+        <item>تكرار اسبوعي</item>
+
+    </string-array>
+    <string name="title_activity_login">login</string>
+
+
+</resources>
